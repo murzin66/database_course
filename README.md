@@ -3,7 +3,7 @@
 
 Внешний вид главного окна представлен далее.
 
-![image](https://github.com/murzin66/database_course/blob/main/lab1_image.jpg)
+![image](https://github.com/murzin66/database_course/blob/main/image.jpg)
 
 Пример не требует Web-сервера. Достаточно установить Node.js, отредактировать пути в файле app.js, запустить файл run_server.bat, открыть страницу http://127.0.0.1:3000/
 
